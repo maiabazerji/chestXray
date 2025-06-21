@@ -1,0 +1,12 @@
+chest_Xray/
+
+
+wandb/
+
+results/
+
+
+*.pdf
+temp
+
+training.log
